@@ -7,4 +7,4 @@ This application allows you to track the exercises you have done in a workout se
 The application will be able to:
 - save a list of exercises you have done in your workout
 - show how many sets you have done for each exercise
-- show how much weight you used and how many reps you have done in each set
+- show how much weight you used and how many reps you have done for every set
