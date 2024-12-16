@@ -1,6 +1,6 @@
 # Workout Logger
 
-### Gym and Weightlifting Progress Tracker
+### Gym/Weightlifting Progress Tracker
 
 This application allows you to track the exercises you have done in a workout session and save your workout once you are done logging
 
