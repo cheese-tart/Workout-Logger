@@ -1,0 +1,20 @@
+{
+    "workout name": "workout with exercises",
+    "exercises": [
+        {
+            "exercise name": "benchpress",
+            "primary muscle hit": "chest",
+            "sets": [
+                {
+                    "set position": 1,
+                    "weight": 245,
+                    "reps": 3
+                }
+            ]
+        }
+    ],
+    "muscles worked": [
+        "chest",
+        "back"
+    ]
+}
